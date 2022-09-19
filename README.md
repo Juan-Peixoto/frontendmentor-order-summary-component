@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor Solution]()
+- Solution URL: [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/sass-and-mobile-first-workflow-RBxRQ9t_HL)
 - Live Site URL: [See live version here](https://juan-peixoto.github.io/frontendmentor-order-summary-component)
 
 ## My process
