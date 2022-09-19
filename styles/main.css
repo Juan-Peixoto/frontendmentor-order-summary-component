@@ -112,6 +112,11 @@ body div#order-sumary-component > div a {
   color: #3829e0;
 }
 
+body div#order-sumary-component > div a:hover {
+  color: #766CF1;
+  text-decoration: none;
+}
+
 body div#order-sumary-component button {
   width: 240px;
   border-radius: 7px;
@@ -125,10 +130,21 @@ body div#order-sumary-component button {
           box-shadow: 1px 10px 10px #d2d8f5;
 }
 
+body div#order-sumary-component button:hover {
+  background-color: #766CF1;
+  cursor: pointer;
+}
+
 body div#order-sumary-component span {
   margin-top: 20px;
   font-size: 11px;
   font-weight: 600;
   color: #1f2f56;
+}
+
+body div#order-sumary-component span:hover {
+  color: #000000;
+  cursor: pointer;
+  font-weight: 1000;
 }
 /*# sourceMappingURL=main.css.map */
